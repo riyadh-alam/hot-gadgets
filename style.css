@@ -1,0 +1,28 @@
+.container{
+    margin-bottom: 100px;
+}
+.col-md-7 img{
+    width: 100%;
+}
+.buy-now{
+    color: white;
+    background: black;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+.orange{
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow:5px 5px 10px lightgray;
+}
+hr{
+    border: 3px solid orange;
+    width: 8%;
+    border-radius: 5px;
+}
+.bag{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray
+}
