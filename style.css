@@ -22,7 +22,8 @@ hr{
     width: 8%;
     border-radius: 5px;
 }
-.bag{
+.Beauty{
+    box-shadow: 5px 5px 20px lightgray;
     border: none;
-    box-shadow: 5px 5px 20px lightgray
+    border-radius: 20px 5px;
 }
